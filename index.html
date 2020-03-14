@@ -795,8 +795,6 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
   }
 
   
-    shuffle(myQuotes)
-  
 
     $(".intro-text").typed({
       strings: myQuotes,
@@ -804,7 +802,7 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
       backDelay: 5000,
       startDelay: 200,
       loop: true,
-      loopCount: false,
+      loopCount: 2,
       cursorChar: "|"
     });
   </script>
