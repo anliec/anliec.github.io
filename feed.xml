@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Nicolas Six</title>
+		<description>Website of Nicolas Six</description>
+		<link>https://anliec.github.io/</link>
+		<atom:link href="https://anliec.github.io//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Traffic sign detection on mobile device</title>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Sun, 01 Dec 2019 00:00:00 -0800</pubDate>
+				<link>https://anliec.github.io//master-thesis/</link>
+				<guid isPermaLink="true">https://anliec.github.io//master-thesis/</guid>
+			</item>
+		
+			<item>
+				<title>Traffic sign classification</title>
+				
+				
+					<description>&lt;p&gt;I also tyed to use Architecture search: https://github.com/DL-project-Fall2019/Traffic-sign-classification&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 01 Oct 2019 00:00:00 -0700</pubDate>
+				<link>https://anliec.github.io//DL-Trafic-sign-classification/</link>
+				<guid isPermaLink="true">https://anliec.github.io//DL-Trafic-sign-classification/</guid>
+			</item>
+		
+			<item>
+				<title>Traffic sign detection and mapping</title>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Fri, 01 Jun 2018 00:00:00 -0700</pubDate>
+				<link>https://anliec.github.io//traffic-sign-mapping/</link>
+				<guid isPermaLink="true">https://anliec.github.io//traffic-sign-mapping/</guid>
+			</item>
+		
+			<item>
+				<title>Autonomous Localization and Mapping</title>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+				<link>https://anliec.github.io//autonomous-robotic/</link>
+				<guid isPermaLink="true">https://anliec.github.io//autonomous-robotic/</guid>
+			</item>
+		
+			<item>
+				<title>Siamese Lake</title>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+				<link>https://anliec.github.io//SiameseLake/</link>
+				<guid isPermaLink="true">https://anliec.github.io//SiameseLake/</guid>
+			</item>
+		
+			<item>
+				<title>OSCAR</title>
+				
+				
+					<description>&lt;p&gt;A long description about the project&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 09 Sep 2017 00:00:00 -0700</pubDate>
+				<link>https://anliec.github.io//oscar/</link>
+				<guid isPermaLink="true">https://anliec.github.io//oscar/</guid>
+			</item>
+		
+			<item>
+				<title>SWAN²</title>
+				
+				
+					<description>&lt;p&gt;A long description about the project&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 09 Sep 2016 00:00:00 -0700</pubDate>
+				<link>https://anliec.github.io//swann/</link>
+				<guid isPermaLink="true">https://anliec.github.io//swann/</guid>
+			</item>
+		
+	</channel>
+</rss>
